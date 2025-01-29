@@ -2,6 +2,7 @@
 <img width="278" alt="image" src="https://github.com/user-attachments/assets/c9e79365-bc9d-4468-be03-61aea052b0c4" />
 
 Project Overview
+
 PICTOPEDIA is a chatbot that allows users to search for information on specific words or terms using the Wikipedia API. The application serves as an interactive word search tool where users can input queries and receive relevant information in response.
 
 Key Features
