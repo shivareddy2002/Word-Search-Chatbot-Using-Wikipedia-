@@ -1,38 +1,89 @@
-# Word-Search-Chatbot-Using-Wikipedia
+# 📘 PICTOPEDIA – Word Search Chatbot Using Wikipedia  
+
 <img width="278" alt="image" src="https://github.com/user-attachments/assets/c9e79365-bc9d-4468-be03-61aea052b0c4" />
 
-Project Overview
+---
 
-PICTOPEDIA is a chatbot that allows users to search for information on specific words or terms using the Wikipedia API. The application serves as an interactive word search tool where users can input queries and receive relevant information in response.
+**PICTOPEDIA** is a chatbot that allows users to search for information on specific words or terms using the Wikipedia API.  
+It works like an **interactive word-search assistant**, where users can input queries and instantly receive relevant, real-time information.
 
-Key Features
-User-Friendly Interface: The chatbot features a simple and interactive UI with an input field for user queries and a search button to trigger responses.
-Real-Time Information Retrieval: Fetches content directly from Wikipedia using API calls, ensuring accurate and comprehensive information.
-Dynamic Chat Output: Displays search results in a chat-style format, enhancing user experience.
-Technologies Used
-HTML, CSS: For the frontend structure and styling.
-JavaScript: Handles user input and integrates API calls for dynamic content rendering.
-Wikipedia API: Provides a robust backend for fetching word definitions and related information.
-The flow of the PICTOPEDIA: Word Search Chatbot Using Wikipedia API project can be outlined as follows:
+[![GitHub issues](https://img.shields.io/github/issues/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia/issues)
+[![GitHub forks](https://img.shields.io/github/forks/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia/network)
+[![GitHub stars](https://img.shields.io/github/stars/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia/stargazers)
+[![License](https://img.shields.io/github/license/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](LICENSE)  
 
-1. User Input
-The user interacts with the chatbot by typing a query or word in the input field.
-Example query: "What is Artificial Intelligence?"
-2. Input Handling
-When the user presses the Search button, an event handler function (handleUserInput()) is triggered in the script.js file.
-The user's input is validated (checked for empty input).
-3. API Request
-The chatbot constructs a request to the Wikipedia API using the user's query.
-The request fetches relevant data in JSON format from Wikipedia, such as the introduction or key information about the searched term.
-4. Processing Response
-The data received from Wikipedia is parsed to extract the necessary information.
-Error handling is included for cases where no data is found or when the query is invalid.
-5. Displaying Results
-The chatbot dynamically updates the chat output area to display the response fetched from the Wikipedia API.
-If the search is successful, it shows the relevant content in a user-friendly format.
-If the search fails, it provides an appropriate error message (e.g., "Sorry, no information found for this word.").
-6. User Interaction Loop
-The chatbot allows the user to perform multiple searches by repeating steps 1-5.
-It retains the chat history during the session to maintain conversation context.
-Flow Summary
-User Input ➡️ Input Handling ➡️ API Request ➡️ Response Processing ➡️ Display Results ➡️ Repeat Interaction
+---
+
+## 🔗 Live Demo  
+👉 [**PICTOPEDIA Chatbot**](https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/)  
+
+---
+
+## 🚀 Project Overview  
+
+**How It Works (Step-by-Step):**
+
+1. **User Input** → User types a query in the chatbot.  
+   *Example:* `"What is Artificial Intelligence?"`  
+
+2. **Input Handling** → Input validated and handled by `handleUserInput()` in `script.js`.  
+
+3. **API Request** → Sends request to **Wikipedia API** for relevant information.  
+
+4. **Response Processing** → Extracts and formats the response.  
+
+5. **Displaying Results** → Shows content in a **chat-style interface**.  
+
+6. **Interaction Loop** → Supports multiple queries with **chat history retention**.  
+
+➡️ **Flow Summary:**  
+User Input ➡️ Input Handling ➡️ API Request ➡️ Response Processing ➡️ Display Results ➡️ Repeat Interaction  
+
+---
+
+## ✨ Features  
+
+- 🖥️ **Simple & Interactive UI** – Clean and user-friendly interface.  
+- ⚡ **Real-Time Retrieval** – Fetches data live from Wikipedia.  
+- 💬 **Chat-Style Display** – Results presented conversationally.  
+- 🔄 **Multi-Search Support** – Keeps chat history during session.  
+- ❌ **Error Handling** – Provides fallback messages if data not found.  
+
+---
+
+## 🛠️ Technologies Used  
+
+- **HTML5, CSS3** – UI design & layout.  
+- **JavaScript (ES6)** – Logic, event handling & API calls.  
+- **Wikipedia API** – Fetches word/term information.  
+
+---
+
+## 🔮 Future Enhancements 
+
+Below are **ready-to-drop code snippets** you can paste into your project to implement the five enhancements:
+
+- 🔊 **Text-to-Speech (TTS)**
+- 🌐 **Multiple-language support (Wikipedia language domains)**
+- 🎨 **UI/UX themes (theme presets + CSS variables)**
+- 📱 **Mobile responsive layout (CSS breakpoints & flexible layout)**
+- 💾 **Download chat history (JSON / TXT export)**
+
+---
+
+## 👨‍💻 Author
+
+**LOMADA SIVA GANGI REDDY**
+
+---
+
+## 📂 Project Flow  
+
+```mermaid
+flowchart LR
+A[User Input] --> B[Input Handling]
+B --> C[Wikipedia API Request]
+C --> D[Process Response]
+D --> E[Display Results]
+E --> F[Interaction Loop]
+
