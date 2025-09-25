@@ -2,17 +2,8 @@
 
 <img width="278" alt="image" src="https://github.com/user-attachments/assets/c9e79365-bc9d-4468-be03-61aea052b0c4" />
 
----
-
 **PICTOPEDIA** is a chatbot that allows users to search for information on specific words or terms using the Wikipedia API.  
 It works like an **interactive word-search assistant**, where users can input queries and instantly receive relevant, real-time information.
-
-[![GitHub issues](https://img.shields.io/github/issues/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia/issues)
-[![GitHub forks](https://img.shields.io/github/forks/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia/network)
-[![GitHub stars](https://img.shields.io/github/stars/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](https://github.com/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia/stargazers)
-[![License](https://img.shields.io/github/license/shivareddy2002/Word-Search-Chatbot-Using-Wikipedia)](LICENSE)  
-
----
 
 ## 🔗 Live Demo  
 👉 [**PICTOPEDIA Chatbot**](https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/)  
@@ -74,8 +65,6 @@ Below are **ready-to-drop code snippets** you can paste into your project to imp
 ## 👨‍💻 Author
 
 **LOMADA SIVA GANGI REDDY**
-
----
 
 ## 📂 Project Flow  
 
