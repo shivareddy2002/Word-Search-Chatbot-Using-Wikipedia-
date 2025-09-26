@@ -9,11 +9,13 @@
 **PICTOPEDIA** is a chatbot that allows users to search for information on specific words or terms using the Wikipedia API. It works like an **interactive word-search assistant**, where users can input queries and instantly receive relevant, real-time information.
 
 ## 🔗 Live Demo  
-<div align="center">
+<p align="center">🚀 Visit <strong>PICTOPEDIA Chatbot</strong></p>
+<p align="center">
+  <a href="https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge" alt="Live Demo Badge">
+  </a>
+</p>
 
-[![🚀 Visit PICTOPEDIA Chatbot](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/)
-
-</div>
 ---
 
 ## 🚀 Project Overview  
