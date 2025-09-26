@@ -13,12 +13,6 @@
 
 ---
 
-<p align="center">
-  <img width="278" alt="image" src="https://github.com/user-attachments/assets/c9e79365-bc9d-4468-be03-61aea052b0c4" />
-</p>
-
----
-
 ## 🚀 Project Overview  
 
 **How It Works (Step-by-Step):**
@@ -41,6 +35,13 @@ User Input ➡️ Input Handling ➡️ API Request ➡️ Response Processing �
 
 ---
 
+## WedApp Screen shots
+
+<p align="center">
+  <img width="278" alt="image" src="https://github.com/user-attachments/assets/c9e79365-bc9d-4468-be03-61aea052b0c4" />
+</p>
+
+---
 ## ✨ Features  
 
 - 🖥️ **Simple & Interactive UI** – Clean and user-friendly interface.  
