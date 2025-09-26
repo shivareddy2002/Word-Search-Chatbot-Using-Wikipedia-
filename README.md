@@ -1,16 +1,19 @@
 
 # 📘 PICTOPEDIA – Word Search Chatbot Using Wikipedia  
 
-
-<img width="278" alt="image" src="https://github.com/user-attachments/assets/c9e79365-bc9d-4468-be03-61aea052b0c4" />
-
+<p align="center">
+  <img width="278" alt="image" src="https://github.com/user-attachments/assets/c9e79365-bc9d-4468-be03-61aea052b0c4" />
+</p>
 
 
 **PICTOPEDIA** is a chatbot that allows users to search for information on specific words or terms using the Wikipedia API. It works like an **interactive word-search assistant**, where users can input queries and instantly receive relevant, real-time information.
 
 ## 🔗 Live Demo  
-👉 [**PICTOPEDIA Chatbot**](https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/)  
+<div align="center">
 
+[![🚀 Visit PICTOPEDIA Chatbot](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge)](https://shivareddy2002.github.io/Word-Search-Chatbot-Using-Wikipedia-/)
+
+</div>
 ---
 
 ## 🚀 Project Overview  
@@ -65,9 +68,16 @@ Below are **ready-to-drop code snippets** you can paste into your project to imp
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author  
 
-**LOMADA SIVA GANGI REDDY**
+**Lomada Siva Gangi Reddy**  
+- 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
+- 💡 Interests: Python | Machine Learning | Deep Learning | Data Science  
+- 📍 Open to **Internships & Job Offers**  
+
+📬 **Contact Me**:  
+- 📞 9346493592  
+- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) [🌐 GitHub](https://github.com/shivareddy2002)  
 
 ---
 
@@ -75,9 +85,18 @@ Below are **ready-to-drop code snippets** you can paste into your project to imp
 
 ```mermaid
 flowchart LR
-A[User Input] --> B[Input Handling]
-B --> C[Wikipedia API Request]
-C --> D[Process Response]
-D --> E[Display Results]
-E --> F[Interaction Loop]
+    A[User Input] --> B[Input Handling]
+    B --> C[Wikipedia API Request]
+    C --> D[Process Response]
+    D --> E[Display Results]
+    E --> F[Interaction Loop]
 
+    %% Styles
+    style A fill:#FFD54F,stroke:#F57F17,stroke-width:2px,color:#000;
+    style B fill:#4FC3F7,stroke:#0277BD,stroke-width:2px,color:#fff;
+    style C fill:#AED581,stroke:#33691E,stroke-width:2px,color:#000;
+    style D fill:#BA68C8,stroke:#4A148C,stroke-width:2px,color:#fff;
+    style E fill:#FF8A65,stroke:#BF360C,stroke-width:2px,color:#fff;
+    style F fill:#90CAF9,stroke:#0D47A1,stroke-width:2px,color:#000;
+
+     
